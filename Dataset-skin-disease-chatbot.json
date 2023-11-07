@@ -1,0 +1,608 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hallo",
+        "hai",
+        "halo, selamat siang",
+        "hei",
+        "hi",
+        "hy",
+        "pagi",
+        "morning",
+        "siang",
+        "afternoon",
+        "sore",
+        "malam",
+        "bro",
+        "sis",
+        "kawan"
+      ],
+      "responses": [
+        "Hai! Mau tau informasi tentang apa nih?",
+        "Halo! salam kenal ya! ada keluhan apa nih?",
+        "Helo! ada yang bisa kami bantu?"
+      ],
+    },
+    {
+      "tag": "Pengertian penyakit atopic",
+      "patterns": [
+        "Apa itu Penyakit atipic?",
+        "Atopic adalah?",
+	"Apa itu atopic?",
+	"Atopic merupakan penyakit?",
+        "Atopic itu apa ya kira-kira?",
+        "Atopic penyakit apa sih?"
+      ],
+      "responses": [
+        "Dermatitis atopik adalah peradangan kulit atau eksim yang ditandai dengan kulit kering, gatal secara terus-menerus, dan ruam merah di kulit. Kondisi ini dapat muncul pada satu atau beberapa bagian tubuh, tetapi umumnya terjadi di wajah, lengan, dan kaki",
+        "Dermatitis atopic merupakan salah satu jenis dermatitis(eksim) yang terjadi akibat adanya peradangan pada kulit. Kondisi ini bisa disertai dengan kulit yang memerah,kering, dan pecah-pecah.Peradangan biasanya berlangsung lama,bahkan hingga bertahun-tahun"
+      ],
+    },
+    {
+      "tag": "Penyebab Penyakit Atopic",
+      "patterns": [
+        "Apa penyebab penyakit atopic?",
+        "Penyebab atopic itu apa?",
+        "Kenapa bisa terkena atopic?",
+	"Apa yang menyebabkan terkena atopic?",
+        "Atopic disebabkan karena apa?",
+        "kok bisa sih kena penyakit atopik?"
+      ],
+      "responses": [
+        "Dermatitis atopik terjadi akibat interaksi multifaktorial, yaitu faktor genetik (keturunan), lingkungan, gangguan fungsi sawar (pelindung) kulit, faktor imunologi,Perubahan hormon Alergi,misalnya terhadap makanan, debu, bulu hewan, kain wool, atau tungau iritasi terhadap zat tertentu, seperti sabun atau deterjen Stres Infeksi Udara yang dingin, kering, atau lembap Keringat",
+        "Hal yang dapat menyebabkan dan menimbulkan gejala dermatitis atopik seperti, Makanan, seperti susu, ikan, telur, jeruk, kacang-kacangan, dan gandum. Alergen non-makanan, seperti debu, deterjen, sabun, dan parfum. Stres. Gangguan emosi. Suhu yang ekstrem, seperti cuaca dingin dengan kelembapan rendah dan udara kering."
+      ],
+    },
+    {
+      "tag": "Gejala atopic",
+      "patterns": [
+        "Apa gejala atopic?",
+        "Bagaimana gejala atopic?",
+	"Apa ciri-ciri atopic?",
+	"Gejala penyakit atopic adalah?",
+        "kira-kira gejala atopic apa ya?",
+        "apa aja sih gejala atopic?"
+      ],
+      "responses": [
+        "Gejala utama dermatitis atopik adalah gatal dan ruam kulit. Selain itu, dermatitis atopik juga dapat menimbulkan gejala lain, seperti kulit menjadi kasar, menebal, dan bersisik,kulit di telapak tangan atau area bawah mata mengkerut atau kusut,kulit di sekitar mata lebih gelap. Pada beberapa kasus, kulit yang bermasalah juga dapat terasa nyeri, bahkan mengeluarkan darah, yang biasanya karena digaruk.",
+        "Gejala dermatitis atopik balita biasanya berupa kulit bersisik, memerah, dan berkerak di area pipi, kulit kepala, tangan, dan kaki. Sedangkan pada anak-anak dan orang dewasa, gejala eksim atopik yang sering muncul adalah ruam merah dan terasa sangat gatal di area belakang leher, lutut, dan siku. Selain gejala tersebut, pengidap juga dapat merasakan gejala lain, seperti: Ruam yang menonjol dan mengeluarkan cairan. Kulit kering dan bersisik. Kulit di telapak tangan atau area bawah mata mengkerut atau kusut. Kulit di sekitar mata lebih gelap. Kulit pecah-pecah, terkelupas, hingga mengeluarkan darah. Rasa gatal yang muncul lebih buruk saat malam hari dan jika digaruk, kulit akan menjadi lebih tebal, timbul bopeng atau berlubang, dan menggelap. Terus-menerus menggaruk area kulit yang bermasalah pun dapat memicu infeksi."
+      ],
+    },
+    {
+      "tag": "Penyembuhan atopic",
+      "patterns": [
+        "Cara menyembuhkan atopic?",
+        "Bagaimana cara mengobati atopic?",
+	"Obat atopic adalah?",
+	"Bagaimana cara menyembuhkan atopic?",
+        "tau nggak cara sembuhin atopic?",
+        "kira-kira bisa sembuh nggak yah penyakit atopic ini"
+      ],
+      "responses": [
+        "Pengobatan dermatitis atopik dilakukan untuk mengurangi tanda dan gejala penyakit serta mencegah kekambuhan di kemudian hari. Bagaimana perawatan kulit dermatitis atopik? Mandi 1–2x sehari dengan menggunakan air hangat kuku (suhu 36–37 derajat Celcius). Lama mandi kira-kira 10–15 menit. Menggunakan sabun yang mengandung pelembab, pH 5,5–6, tidak mengandung pewarna dan pewangi. Mencegah bahan iritan saat mandi, seperti sabun antiseptik. Setelah mandi (dalam waktu 3 menit setelah mandi), segera oleskan salep khusus atau pelembap khusus keseluruh kulit kecuali kulit kepala. Cara aplikasi: menggunakan tangan dan dioleskan tipis di seluruh permukaan kulit kecuali kulit kepala. Apabila kulit terkena air atau bahan lain dalam waktu kurang dari 5 menit setelah pengolesan, prosedur diulang kembali. Memakai pakaian yang ringan,lembut,dan menyerap keringat Mencegah bahan iritan seperti deterjen,sabun cair pencuci piring, dan desinfektan saat mencuci pakaian Menghindari faktor pencetus alergen,seperti tungau debu rumah,binatang peliharaan,dan serbuk bunga menjaga suhu ruangan tempat berada agar tidak ekstrem,misalnya terlalu panas atau terlalu dingin"
+        "Pemberian antibiotik dapat dilakukan jika terdapat penyakit lain yang menyertai dermatitis atopik. Untuk mencegah kulit menjadi kering, penting untuk menjaga hidrasi kulit dan menggunakan pelembap. Hindari penggunaan sabun beralkali. Jika alergi kulit yang Anda alami cukup parah, Anda mungkin memerlukan kortikosteroid topikal melalui suntikan."
+      ],
+    },
+    {
+      "tag": "Pengertian penyakit Eksim",
+      "patterns": [
+        "Apa itu penyakit eksim?",
+        "Eksim adalah?",
+	"Eksim adalah penyakit?",
+	"Eksim merupakan penyakit?",
+        "penyakit apa sih eksim itu?",
+        "tolong jelasin dong eksim itu apa?"
+      ],
+      "responses": [
+        "Eksim adalah istilah terkait gangguan pembengkakan pada kulit. Gangguan ini disebut juga dengan dermatitis. Saat terjadi, reaksi alergi pada kulit dapat ditandai dengan timbulnya warna kemerahan, ruam, dan rasa gatal. Kondisi ini dapat menimbulkan rasa tidak nyaman serta mengganggu penampilan",
+        "Eksim adalah kondisi ketika kulit mengalami peradangan yang ditandai dengan munculnya ruam merah di kulit dan terasa gatal."
+      ],
+    },
+    {
+      "tag": "Penyebab Penyakit Eksim",
+      "patterns": [
+        "Apa penyebab penyakit Eksim?",
+        "Penyebab Eksim adalah?",
+        "Kenapa bisa terkena Eksim?",
+	"Apa yang menyebabkan terkena Eksim?",
+        "Eksim disebabkan karena apa sih?",
+        "kalo boleh tau eksim penyebab karena apa ya?"
+      ],
+      "responses": [
+        "Eksim dapat disebabkan oleh faktor dari luar (eksogen), seperti bahan kimia, mikroorganisme (bakteri, jamur). Selain itu, masalah ini juga bisa disebabkan oleh pengaruh dari dalam (endogen), seperti eksim atopik. Sebagian lainnya belum diketahui secara pasti, terutama yang berhubungan dengan endogen. Beberapa faktor lingkungan yang dapat meningkatkan risiko terjadinya eksim adalah,Iritan: Segala hal yang dapat menyebabkan iritasi, termasuk sabun, deterjen, sampo, desinfektan, dan lain-lain.Alergen: Tungau debu, hewan peliharaan, serbuk sari, dan segala hal yang dapat menyebabkan eksim, atau disebut juga eksim alergi.Mikroba: Eksim juga bisa disebabkan oleh bakteri seperti Staphylococcus aureus, virus, dan jamur tertentu.Suhu panas dan dingin: Cuaca yang sangat panas dan sangat dingin, kelembapan tinggi dan rendah, dan keringat akibat olahraga juga dapat menyebabkan eksim.Makanan: Produk susu, telur, kacang-kacangan dan biji-bijian, produk kedelai, dan gandum dapat menyebabkan gangguan kulit ini pada          beberapa orang.Stres: Hal ini bukanlah penyebab langsung dari eksim, tetapi dapat memperburuk gejalanya.Hormon: Wanita mungkin mengalami peningkatan gejala eksim ketika kadar hormonnya berubah, seperti selama kehamilan dan pada titik-titik tertentu dalam siklus menstruasi.",
+        "Eksim bisa terjadi karena gangguan imunitas tubuh. Ketika sistem kekebalan tubuh terlalu aktif atau merespon secara berlebihan saat tubuh terpapar alergen (pemicu alergi) maka dapat memunculkan reaksi peradangan pada kulit."
+      ],
+    },
+    {
+      "tag": "Gejala Eksim",
+      "patterns": [
+        "Apa gejala Eksim?",
+        "Bagaimana gejala Eksim?",
+	"Apa ciri ciri Eksim?",
+	"Gejala penyakit Eksim adalah?",
+        "sebutkan gejala-gejala eksim",
+        "apa saja gejala pada eksim?"
+      ],
+      "responses": [
+        "Semua orang dapat mengalami eksim tanpa terkecuali, dari orang dewasa hingga anak-anak. Gejalanya pun dapat muncul sejak seseorang usianya sudah di atas dua tahun. Eksim bisa menghilang seiring bertambahnya usia, tetapi juga bisa menjadi penyakit seumur hidup. gejala eksim paling umum yang dapat timbul saat gangguan ini terjadi adalah,Kulit yang menjadi kering dan bersisik,Kulit yang memerah,Terasa gatal,Luka yang terbuka atau berkerak",
+        "Gejala umum eksim terjadi seperti Kulit kering dan gatal-gatal. Bercak merah di area kulit yang gatal. Kulit tampak berkerut. Kulit menjadi sensitif dan bengkak saat digaruk. Kulit menebal, bersisik, dan pecah-pecah."
+      ],
+    },
+    {
+      "tag": "Penyembuhan Eksim",
+      "patterns": [
+        "Cara menyembuhkan Eksim?",
+        "Bagaimana cara mengobati Eksim?",
+	"Obat Eksim adalah?",
+	"Bagaimana cara menyembuhkan Eksim?",
+        "Apakah eksim ini bisa sembuh?",
+        "bisakah penyakit eksim ini sembuh?"
+      ],
+      "responses": [
+        "Ada beberapa perawatan rumahan yang bisa dilakukan untuk mengatasi eksim,Mandi dengan air hangat,Mengoleskan pelembap setelah mandi,Menggunakan pelembap setiap hari,Memakai katun dan kain lembut,Menghindari bahan pakaian yang kasar, gatal, serta pakaian yang ketat,Menggunakan pelembap udara dalam cuaca yang kering atau dingin,Menghindari pemicu terjadinya eksim. Selain pengobatan rumahan, ada juga beberapa pengobatan medis yang bisa         dilakukan,Penggunaan antihistamin,Penggunaan kortikosteroid oles,Penggunaan pelembap kulit. Beberapa cara mencegahnya adalah,Hindari menggunakan bahan yang menimbulkan rasa gatal, seperti wol.Jangan gunakan sabun dan deterjen dengan kandungan yang keras.Pastikan untuk menggunakan pelembap udara di kamar tidur.Kurangi pikiran yang menyebabkan stres.Sebaiknya hindari untuk mengonsumsi makanan pemicu alergi dan pemicu iritasi.Cegah perubahan suhu dan kelembaban kulit yang ekstrim.Hindari mandi menggunakan air yang terlalu panas.Jangan memanaskan dan mendinginkan kuli         t secara berlebih.Gunakan pelindung ketika bersentuhan dengan deterjen atau bahan kimia lainnya.",
+        "Eksim bisa disembuhkan dengan cara Penggunaan pelembap kulit. Pilih pelembap yang benar-benar sesuai dengan kondisi kulit. Cobalah lebih sering mengoleskannya untuk menghindari masalah kulit yang lebih meluas."
+      ],
+    },
+    {
+      "tag": "Pengertian penyakit Keratosis Seboroik",
+      "patterns": [
+        "Apa itu penyakit Keratosis Seboroik?",
+        "Keratosis Seboroik adalah?",
+	"Keratosis Seboroik adalah penyakit?",
+	"Keratosis Seboroik merupakan penyakit?",
+        "kira-kira Keratosis seboroik ini apa sih?",
+        "keratosis seboroik itu penyakit apa sih?"
+      ],
+      "responses": [
+        "Merupakan tumor jinak kulit yang sering di temukan dan banyak terjadi pada populasi dengan warna kulit lebih terang dan sering dijumpai pada usia lanjut, sekitar 80% dari populassi lanjut usia menderita tumor ini, walaupun tidak terjadi keganasan tapi keratosis seborik ini dapat sebagai manifestasi kelainan sistematika seperti parkinson, sindroma metabolik dan sebagainya",
+        "Keratosis seboroik adalah benjolan seperti kutil yang tumbuh di permukaan kulit dan bisa bertambah seiring waktu."
+      ],
+    },
+    {
+      "tag": "Penyebab Penyakit Keratosis Seboroik",
+      "patterns": [
+        "Apa penyebab penyakit Keratosis Seboroik?",
+        "Penyebab Keratosis Seboroik adalah?",
+        "Kenapa bisa terkena Keratosis Seboroik?",
+	"Apa yang menyebabkan terkena Keratosis Seboroik?",
+        "keratosis seboroik ini disebabkan karena apa ya?",
+        "jelasin dong penyebab dari keratosis seboroik ini"
+      ],
+      "responses": [
+        "Penyebabnya adalah paparan sinar matahari dan pertambahan usia meningkatkan ekspresi Amyloid Psesursor Protein (APP) yang dapat memicu timbulnya keratosis seboroik dan merupakan penuaan kulit dan kerusakan UV.", 
+        "Selain itu dengan bertambahnya usia yang mengakibatakan peningkatan dari sekresi sitokin melanocyte stimulating seperti IL-1 yang mengakibatkan hyperpigmentasi pada lesi keratosis seboroik"
+      ],
+    },
+    {
+      "tag": "Gejala Keratosis Seboroik",
+      "patterns": [
+        "Apa gejala Keratosis Seboroik?",
+        "Bagaimana gejala Keratosis Seboroik?",
+	"Apa ciri ciri Keratosis Seboroik?",
+	"Gejala penyakit Keratosis Seboroik adalah?",
+        "kira-kira gejala keratosis seboroik apa saja ya?",
+        "sebutkan dong gejala yang muncul pada keratosis seboroik"
+      ],
+      "responses": [
+        "Warnanya berkisar dari coklat mudah hingga coklat tua dan hitam,Berbentuk bulat atau lonjong,Memiliki tampilan yang khas,Rata atau sedikit terangkat dengan permukaan bersisik,Berkisar dalam ukuran dari sangat kecil hingga lebih dari 1 inci (2,5 sentimeter),Dalam beberapa kasus menyebabkan gatal",
+        "Sering muncul lebih dari satu di satu area (berkelompok) dan tidak menimbulkan sakit atau nyeri, tetapi dapat terasa gatal dan mengganggu."
+      ],
+    },
+    {
+      "tag": "Penyembuhan Keratosis Seboroik",
+      "patterns": [
+        "Cara menyembuhkan Keratosis Seboroik?",
+        "Bagaimana cara mengobati Keratosis Seboroik?",
+	"Obat Keratosis Seboroik adalah?",
+	"Bagaimana cara menyembuhkan Keratosis Seboroik?",
+        "Jelasin dong apakah keratosis seboroik ini dapat sembuh?",
+        "kira-kira keratosis seboroik bisa sembuh tidak ya?"
+      ],
+      "responses": [
+        "Keratosis seboroik umumnya tidak memerlukan pengobatan khusus. Namun, jika benjolan mengalami iritasi atau infeksi, dokter perlu mengangkatnya. Benjolan juga bisa diangkat jika pasien merasa keratosis seboroik menimbulkan ketidaknyamanan dan mengganggu penampilan.",
+        "Keratosis seboroik bisa disembuhkan dengan pengangkatan keratosis seboroik dengan teknik bedah konvensional dilakukan dengan bius lokal dan sayatan pisau bedah. Setelah tindakan, luka akan dijahit. Setelah operasi pengangkatan, area kulit bekas benjolan akan berwarna lebih pucat daripada kulit di sekitarnya. Perbedaan warna akan berkurang seiring berjalannya waktu."
+      ],
+    },
+    {
+      "tag": "Pengertian penyakit Kurap",
+      "patterns": [
+        "Apa itu penyakit Kurap?",
+        "Kurap adalah?",
+	"Kurap adalah penyakit?",
+	"Kurap merupakan penyakit?",
+        "Apa sih kurap itu?",
+        "kurap itu penyakit apa sih?"
+      ],
+      "responses": [
+        "Penyakit kurap adalah infeksi kulit yang ditandai oleh radang maupun luka pada kulit. Penyakit kurap sendiri disebabkan oleh jamur golongan dermatofita yang menyerang jaringan berkeratin.",
+        "Kurap adalah infeksi jamur pada kulit yang menimbulkan ruam melingkar berwarna merah. Kurap dapat terjadi di beberapa area tubuh, seperti kepala, wajah, tangan, kaki, atau selangkangan."
+      ],
+    },
+    {
+      "tag": "Penyebab Penyakit Kurap",
+      "patterns": [
+        "Apa penyebab penyakit Kurap?",
+        "Penyebab Kurap adalah?",
+        "Kenapa bisa terkena Kurap?",
+	"Apa yang menyebabkan terkena Kurap?",
+        "sebutkan dong penyebab kurap apa saja",
+        "disebabkan karena apa sih kurap itu"
+      ],
+      "responses": [
+        "Kontak langsung kulit ke kulit, Hewan ke manusia, Benda yang disentuh oleh manusia atau hewan yang terinfeksi,Melalui kontak dengan tanah yang terinfeksi, kasus ini jarang terjadi.",
+        "Kurap disebabkan oleh infeksi jamur pada kulit. Jamur ini dapat menular melalui kontak langsung dengan penderita atau kontak tidak langsung dengan benda atau tanah yang terkontaminasi."
+      ],
+    },
+    {
+      "tag": "Gejala Kurap",
+      "patterns": [
+        "Apa gejala Kurap?",
+        "Bagaimana gejala Kurap?",
+	"Apa ciri ciri Kurap?",
+	"Gejala penyakit Kurap adalah?",
+        "Apa saja ya gejala kurap itu?",
+        "kira-kira gejala kurap apa saja tuh?"
+      ],
+      "responses": [
+        "Area berbentuk cincin bersisik, biasanya di bokong, badan, lengan, dan kaki,Gatal ,Area bening atau bersisik di dalam area berbentuk cincin, terkadang dengan hamburan benjolan merah ,Area berbentuk cincin yang sedikit terangkat dan melebar ,Area berbentuk cincin yang tumpang tindih",
+        "Gejala Kurap ditandai dengan munculnya ruam bersisik berwarna kemerahan di permukaan kulit. Ruam kulit ini dapat meluas."
+      ],
+    },
+    {
+      "tag": "Penyembuhan Kurap",
+      "patterns": [
+        "Cara menyembuhkan Kurap?",
+        "Bagaimana cara mengobati Kurap?",
+	"Obat Kurap adalah?",
+	"Bagaimana cara menyembuhkan Kurap?"
+        "Apakah penyakit kurap ini dapat sembuh?",
+        "Gimana sih caranya biar bisa sembuh dari kurap?"
+      ],
+      "responses": [
+        "Cara mengobati kurap tergantung pada letak dan tingkat keparahan. Dalam banyak kasus, dokter biasanya akan merekomendasikan OTC (obat bebas) yang bisa Anda dapatkan dengan mudah di apotek terdekat. Jika kurap ada di kulit, Anda dapat coba menggunakan krim, losion, atau bedak antijamur untuk mengatasinya. Guna memastikan jamur penyebab kurap mati, Anda perlu menggunakan obat-obatan tersebut di kulit Anda selama 2 sampai 4 minggu.",
+        "Kurap dapat diatasi dengan salep kurap atau antijamur, seperti clotrimazole atau miconazole."
+      ],
+    },
+    {
+      "tag": "Pengertian penyakit Candidiasis",
+      "patterns": [
+        "Apa itu penyakit Candidiasis?",
+        "Candidiasis adalah?",
+	"Candidiasis adalah penyakit?",
+	"Candidiasis merupakan penyakit?",
+        "Penyakit Candidiasis itu apa sih?",
+        "jelasin dong candidiasis itu apa"
+      ],
+      "responses": [
+        "Candidiasis atau kandidiasis adalah infeksi jamur yang disebabkan oleh jamur Candida albicans.",
+        "Candidiasis biasanya terjadi di kulit, mulut, dan kelamin. Jika tidak ditangani, infeksi ini bisa menyebar ke organ tubuh lain, seperti usus, ginjal, jantung, dan otak"
+      ],
+    },
+    {
+      "tag": "Penyebab Penyakit Candidiasis",
+      "patterns": [
+        "Apa penyebab penyakit Candidiasis?",
+        "Penyebab Candidiasis adalah?",
+        "Kenapa bisa terkena Candidiasis?",
+	"Apa yang menyebabkan terkena Candidiasis?",
+        "Disebabkan apa sih penyakit candidiasis itu?",
+        "Tolong jelaskan penyebab candidiasis"
+      ],
+      "responses": [
+        "Menderita penyakit diabetes yang tidak terkontrol, HIV/AIDS, atau kanker,Menjalani perawatan kemoterapi,Mengonsumsi obat-obatan tertentu, seperti kortikosteroid atau prednisone,Faktor usia. Bayi dan orang lanjut usia yang memiliki daya tahan tubuh lemah lebih berisiko terinfeksi kandidiasis,Mengonsumsi makanan tinggi gula yang memicu pertumbuhan jamur dalam tubuh,Tidak menjaga kebersihan mulut atau organ intim dengan baik.",
+        "Pada keadaan normal, jamur Candida memang hidup di kulit dan beberapa bagian tubuh, seperti mulut, tenggorokan, saluran cerna, dan vagina, tanpa menyebabkan gangguan kesehatan. Namun, jamur ini bisa membahayakan tubuh bila berkembang biak tidak terkendali atau masuk ke aliran darah, ginjal, jantung, dan otak."
+      ],
+    },
+    {
+      "tag": "Gejala Candidiasis",
+      "patterns": [
+        "Apa gejala Candidiasis?",
+        "Bagaimana gejala Candidiasis?",
+	"Apa ciri ciri Candidiasis?",
+	"Gejala penyakit Candidiasis adalah?"
+        "Apa saja gejala candidiasis?",
+        "sebutin dong gejala candidiasis itu"
+      ],
+      "responses": [
+        "Penderita candidiasis dapat mengalami gejala yang berbeda-beda, tergantung pada lokasi infeksinya.",
+        "Berikut adalah gejala candidiasis berdasarkan bagian tubuh yang terserang:Candidiasis mulut (oral thrush)Bercak putih atau kuning di lidah, bibir, gusi, langit-langit mulut, dan pipi bagian dalam,Kemerahan di mulut dan tenggorokan,Kulit pecah-pecah di sudut mulut,Nyeri saat menelan,Luka pada sudut bibir. Candidiasis vulvovaginal,Rasa gatal yang ekstrem di vagina,Rasa nyeri dan terbakar saat buang air kecil,Rasa tidak nyaman selama berhubungan seks,Pembengkakan di vagina dan bagian luar vagina (vulva),Keputihan yang menggumpal. Candidiasis kulit (cutaneous candidiasis)Ruam yang gatal di lipatan kulit, seperti ketiak, selangkangan, sela jari, atau di bawah payudara,Kulit yang kering dan pecah-pecah,Kulit melepuh dan bernanah jika terjadi infeksi sekunder, yaitu infeksi kuman lain, termasuk bakteri."
+      ],
+    },
+    {
+      "tag": "Penyembuhan Candidiasis",
+      "patterns": [
+        "Cara menyembuhkan Candidiasis?",
+        "Bagaimana cara mengobati Candidiasis?",
+	"Obat Candidiasis adalah?",
+	"Bagaimana cara menyembuhkan Candidiasis?",
+        "Agar bisa sembuh dari candidiasis gimana sih?",
+        "Kalau sembuh dari candidiasis bisa tidak ya?"
+      ],
+      "responses": [
+        "Infeksi jamur tersebut biasanya bisa sembuh dengan menggunakan atau konsumsi obat antijamur oral (pil, permen atau cairan) atau topikal (krim atau salep).",
+        "Penyembuhan candidiasis bertujuan untuk mengatasi infeksi dan mencegah terjadinya komplikasi. Infeksi jamur tersebut biasanya bisa sembuh dengan menggunakan atau konsumsi obat antijamur oral (pil, permen atau cairan) atau topikal (krim atau salep).  Setiap obat antijamur memiliki petunjuk penggunaan yang berbeda-beda, jadi pastikan kamu bertanya pada dokter mengenai cara menggunakan atau meminum obat tersebut dan berapa lama kamu harus meminumnya."
+      ],
+    },
+    {
+      "tag": "Pengertian penyakit Kutil",
+      "patterns": [
+        "Apa itu penyakit Kutil?",
+        "Kutil adalah?",
+	"Kutil adalah penyakit?",
+	"Kutil merupakan penyakit?",
+        "Apa sih penyakit kutil itu?",
+        "kira-kira apa ya penyakit kutil"
+      ],
+      "responses": [
+        "Kutil adalah benjolan di kulit akibat infeksi virus human papilloma (HPV). Virus ini dapat menyerang berbagai bagian tubuh, termasuk telapak tangan, kaki, dan kelamin. Virus penyebab kutil biasanya menular melalui kontak fisik dengan penderita kutil atau dari benda yang terkontaminasi. Setelah kulit terpapar HPV kutil membutuhkan waktu sekitar 2–6 bulan untuk berkembang",
+        "Kutil merupakan gangguan yang terjadi pada kulit. Kondisi ini muncul karena ada penebalan lapisan luar kulit. Ukuran penebalan bervariasi dan bisa muncul di seluruh tubuh, tetapi paling sering ditemui di tangan atau jari tangan."
+      ],
+    },
+    {
+      "tag": "Penyebab Penyakit Kutil",
+      "patterns": [
+        "Apa penyebab penyakit Kutil?",
+        "Penyebab Kutil adalah?",
+        "Kenapa bisa terkena Kutil?",
+	"Apa yang menyebabkan terkena Kutil?",
+        "Disebabkan apa sih penyakit kutil?",
+        "Kok bisa ya terkena penyakit kutil?"
+      ],
+      "responses": [
+        "Orang dengan sistem kekebalan tubuh yang lemah, seperti pengidap HIV/AIDS atau orang yang pernah menjalani transplantasi organ,Cedera pada kulit,Infeksi kulit yang merusak permukaan kulit,Sering membuat tangan basah,Tangan atau kaki berkeringat banyak (hiperhidrosis),Berenang di kolam renang umum,Kebiasaan menggigit kuku,Melakukan kontak langsung dengan orang lain yang mengidap kondisi ini,Menggaruk atau mencukurnya sendiri, dapat menyebarkan infeksi ke area lain di tubuh.",
+        "Virus ini memiliki banyak serotipe dengan jumlah lebih dari 150 jenis. Dari 100 serotipe tersebut, hanya beberapa yang menyebabkan kutil di bagian tubuh selain kelamin. Virus ini menyebar dengan cara kontak kulit dan paling sering menginfeksi individu dengan sistem imun yang lemah."
+      ],
+    },
+    {
+      "tag": "Gejala Kutil",
+      "patterns": [
+        "Apa gejala Kutil?",
+        "Bagaimana gejala Kutil?",
+	"Apa ciri ciri Kutil?",
+	"Gejala penyakit Kutil adalah?",
+        "Kira-kira gejala kutil apa ya?",
+        "Jelaskan dong gejala kutil"
+      ],
+      "responses": [
+        "Gejala yang timbul pada seseorang dengan gangguan ini biasanya tidak menimbulkan rasasakit. Namun, pada beberapa jenis, dapat menimbulkan rasa nyeri, seperti veruka.",
+        "Selain itu, pengidap juga dapat merasakan gatal dan bahkan berdarah. Ada beberapa jenis yang dapat menyerang, semuanya dapat berbeda-beda dalam ukuran, bentuk, dan lokasi terjadinya. Beberapa gejala umum lainnya yang dapat terlihat, antara lain Tonjolan di kulit dari ukuran kecil sampai besar.Warna tonjolan dapat bervariasi dari warna kulit, putih, merah muda, maupun kecoklatan.Tonjolan umumnya terasa kasar."
+      ],
+    },
+    {
+      "tag": "Penyembuhan Kutil",
+      "patterns": [
+        "Cara menyembuhkan Kutil?",
+        "Bagaimana cara mengobati Kutil?",
+	"Obat Kutil adalah?",
+	"Bagaimana cara menyembuhkan Kutil?",
+        "Apa cara agar bisa sembuh dari kutil?",
+        "Jelaskan dong biar sembuh dari kutil"
+      ],
+      "responses": [
+        "Infeksi jamur tersebut biasanya bisa sembuh dengan menggunakan atau konsumsi obat antijamur oral (pil, permen atau cairan) atau topikal (krim atau salep).",
+        "Jika belum sembuh bisa kunjungi ke dokter dengan menghancurkan kondisi yang masih tumbuh, serta merangsang respons sistem kekebalan untuk melawan virus yang menyebabkan gangguan tersebut. menghancurkan kondisi yang masih tumbuh, serta merangsang respons sistem kekebalan untuk melawan virus yang menyebabkan gangguan tersebut."
+      ],
+    },
+    {
+      "tag": "Pengertian penyakit Moluskum",
+      "patterns": [
+        "Apa itu penyakit Moluskum?",
+        "Moluskum adalah?",
+	"Moluskum adalah penyakit?",
+	"Moluskum merupakan penyakit?",
+        "Apa sih moluskum itu?",
+        "Moluskum itu penyakit apa ya?"
+      ],
+      "responses": [
+        "Moluskum kontagiosum adalah infeksi kulit akibat virus yang menyebabkan tonjolan (papula) seperti mutiara tunggal atau ganda pada kulit.Moluskum kontagiosum adalah infeksi kronis dan lesi dapat bertahan dari beberapa bulan hingga beberapa tahun",
+        "Penyakit molluscum contagiosum atau moluskum kontagiosum adalah infeksi virus yang menyebabkan tumbuhnya bintil di kulit. Bintil tersebut biasanya tidak terasa nyeri, tetapi menimbulkan rasa gatal."
+      ],
+    },
+    {
+      "tag": "Penyebab Penyakit Moluskum",
+      "patterns": [
+        "Apa penyebab penyakit Moluskum?",
+        "Penyebab Moluskum adalah?",
+        "Kenapa bisa terkena Moluskum?",
+	"Apa yang menyebabkan terkena Moluskum?",
+        "Disebabkan apa sih moluskum itu?",
+        "Kok bisa ya terkena penyakit moluskum?"
+      ],
+      "responses": [
+        "Moluskum kontagiosum disebabkan oleh virus moluskum kontagiosum yang merupakan bagian dari keluarga virus cacar. Virus ini menular melalui kontak langsung dan lebih sering terjadi pada anak-anak. Seiring bertambahnya usia anak-anak, sistem kekebalan mereka menjadi lebih baik dalam membersihkan virus. Moluskum kontagiosum dapat menyebar pada satu individu melalui garukan dan gosokan",
+        "Penularan juga bisa terjadi akibat menyentuh atau memakai barang yang digunakan oleh penderita, misalnya pakaian atau handuk. Moluskum kontagiosum juga dapat menular melalui hubungan seks."
+      ],
+    },
+    {
+      "tag": "Gejala Moluskum",
+      "patterns": [
+        "Apa gejala Moluskum?",
+        "Bagaimana gejala Moluskum?",
+	"Apa ciri ciri Moluskum?",
+	"Gejala penyakit Moluskum adalah?",
+        "Apa saja gejala moluskum itu?",
+        "Sebutkan dong gejala moluskum"
+      ],
+      "responses": [
+        "Umumnya tidak menimbulkan rasa sakit, tetapi bisa terasa gatal Berukuran kecil, namun orang yang mengidap defisiensi imun dapat mengembangkan lesi yang lebih besar Memiliki lesung pipit di tengahnya Awalnya berbentuk kubah dan berwarna daging  Menjadi lebih nyeri seiring waktu Dapat berubah menjadi merah dan mengering seiring waktu Memiliki inti pusat dari bahan putih berlilin.",
+        "Gejala bintil-bintil moluskum Berukuran kecil, seperti biji kacang hijau atau kacang tanah Muncul di wajah, leher, ketiak, perut, kelamin, dan tungkai maupun menyerupai jerawat di kelamin. Berwarna seperti warna kulit, putih, atau merah muda Ada titik kecil berwarna putih kekuningan di tengah bintil Jumlah bintil yang tumbuh biasanya sekitar 20-30, tetapi pada orang dengan kekebalan tubuh rendah, jumlahnya bisa lebih banyak Awalnya keras bila diraba, kemudian melunak seiring waktu Tidak menimbulkan nyeri, tetapi terasa gatal."
+      ],
+    },
+    {
+      "tag": "Penyembuhan Moluskum",
+      "patterns": [
+        "Cara menyembuhkan Moluskum?",
+        "Bagaimana cara mengobati Moluskum?",
+	"Obat Moluskum adalah?",
+	"Bagaimana cara menyembuhkan Moluskum?",
+        "Apa cara agar bisa sembuh dari moluskum?",
+        "Jelaskan dong biar sembuh dari moluskum"
+      ],
+      "responses": [
+        "Molluscum Contagiosum adalah infeksi yang dapat sembuh sendiri pada orang sehat, sehingga pengobatan medis tidak diperlukan. Namun, masalah seperti terlihatnya lesi secara estetika dan guna mencegah transmisi, pengobatan dapat dilakukan. Pengobatan juga direkomendasikan bila lesi melibatkan daerah kemaluan (misalnya pada sekitar penis, vagina, dan lubang anus).",
+        "Pada pasien dewasa, ada beberapa metode yang bisa dilakukan oleh dokter kulit untuk mengobati moluskum kontagiosum, antara lain: Mengolesi bintil dengan asam trikloroasetat, asam salisilat, atau tretinoin, baik dalam bentuk krim maupun salep Kuret atau scraping, yaitu mengikis bintil menggunakan alat medis khusus Terapi sinar laser, yaitu membakar bintil menggunakan sinar laser Diathermy, yakni menghancurkan bintil menggunakan energi panas, dengan terlebih dahulu diberikan bius lokal Krioterapi, yaitu membekukan bintil menggunakan nitrogen cair."
+      ],
+    },
+    {
+      "tag": "Pengertian penyakit Melanoma",
+      "patterns": [
+        "Apa itu penyakit Melanoma?",
+        "Melanoma adalah?",
+	"Melanoma adalah penyakit?",
+	"Melanoma merupakan penyakit?",
+        "Kira-kira penyakit melanoma apa ya?",
+        "Penyakit melanoma apa sih?"
+      ],
+      "responses": [
+        "Melanoma adalah salah satu jenis kanker kulit yang terjadi akibat pertumbuhan sel melanosit secara tidak normal. Penyakit ini termasuk jenis kanker kulit ganas yang dapat menyebar dengan cepat ke organ tubuh lain, seperti mata, hidung, tenggorokan, otak, dan paru-paru. Penyakit kulit melanoma umumnya ditandai dengan munculnya tahi lalat baru di kulit atau perubahan bentuk, ukuran, dan warna pada tahi lalat. Hanya 1:100 kasus kanker kulit yang merupakan melanoma. Meski begitu, penyakit langka ini tetap perlu diwaspadai.",
+        "Melanoma adalah jenis kanker kulit yang jarang terjadi, tetapi sangat berbahaya. Kanker ini dimulai dari kulit manusia dan dapat menyebar ke organ lain di dalam tubuh jika terlambat ditangani."
+      ],
+    },
+    {
+      "tag": "Penyebab Penyakit Melanoma",
+      "patterns": [
+        "Apa penyebab penyakit Melanoma?",
+        "Penyebab Melanoma adalah?",
+        "Kenapa bisa terkena Melanoma?",
+	"Apa yang menyebabkan terkena Melanoma?",
+        "Disebabkan apa sih melanoma?",
+        "Kok bisa terkena penyakit melanoma?"
+      ],
+      "responses": [
+        "Yang menyebabkan penyakit  melanoma adalah paparan sinar UV secara langsung. Melanoma terjadi ketika adanya kerusakan DNA yang menyebabkan sel-sel kulit tumbuh tak terkendali.",
+        "Selain paparan sinar UV, beberapa faktor yang dapat meningkatkan risiko seseorang terkena penyakit kulit melanoma adalah: Kulit putih, ini karena kulit putih tidak memiliki melanin yang cukup untuk melindungi kulit dari paparan radiasi UV. Memiliki jumlah tahi lalat yang banyak atau lebih dari 50 tahi lalat di tubuhnya. Sering terpapar matahari dan ultraviolet secara langsung. Memiliki keluarga dengan riwayat melanoma (faktor genetik). Memiliki sistem imun yang lemah. Pernah memiliki luka bakar akibat terpapar matahari. Freckles atau bintik-bintik coklat pada kulit"
+      ],
+    },
+    {
+      "tag": "Gejala Melanoma",
+      "patterns": [
+        "Apa gejala Melanoma?",
+        "Bagaimana gejala Melanoma?",
+	"Apa ciri ciri Melanoma?",
+	"Gejala penyakit Melanoma adalah?",
+        "Apa saja gejala pada melanoma?",
+        "Sebutkan dong gejala pada melanoma?"
+      ],
+      "responses": [
+        "Perubahan bentuk, warna, dan ukuran tahi lalat. Tahi lalat yang rapuh dan mudah berdarah. Perih pada tahi lalat yang tak kunjung hilang. Kemerahan atau pembengkakan di area sekeliling tahi lalat.", 
+        "Muncul noda atau pigmen yang tidak biasa pada kulit. Tahi lalat terasa nyeri dan gatal saat ditekan."
+      ],
+
+    },
+    {
+      "tag": "Penyembuhan Melanoma",
+      "patterns": [
+        "Cara menyembuhkan Melanoma?",
+        "Bagaimana cara mengobati Melanoma?",
+	"Obat Melanoma adalah?",
+	"Bagaimana cara menyembuhkan Melanoma?",
+        "Apa cara agar bisa sembuh dari Melanoma?",
+        "Jelaskan dong biar sembuh dari Melanoma"
+      ],
+      "responses": [
+        "Pada tahap awal, pengobatan melanoma bisa dilakukan melalui tindakan operasi dengan mengangkat area kanker. Setelah itu, pasien akan menjalani radioterapi menggunakan sinar radiasi tinggi untuk membunuh sel kanker.",
+        "Penyembuhan bisa dengan radioterapi. Tetapi radioterapi memiliki beberapa kemungkinan efek samping, seperti rambut rontok (pada area terapi), mual, kelelahan, sensasi terbakar pada kulit, hingga perubahan warna kulit."
+      ],
+    },
+    {
+      "tag": "Pengertian penyakit Psoriasis",
+      "patterns": [
+        "Apa itu penyakit Psoriasis?",
+        "Psoriasis adalah?",
+	"Psoriasis adalah penyakit?",
+	"Psoriasis merupakan penyakit?",
+        "Penyakit apa sih psoriasis itu?",
+        "Psoriasis itu apa ya?"
+      ],
+      "responses": [
+        "Psoriasis adalah penyakit autoimun yang terjadi karena ada peradangan pada kulit. Peradangan kemudian menyebabkan kulit bersisik, menebal, terasa gatal, serta mudah terkelupas",
+        "Psoriasis adalah peradangan pada kulit yang menyebabkan kulit bersisik, menebal, mudah terkelupas, dan kadang juga terasa gatal. Psoriasis biasanya muncul di kulit bagian lutut, siku, punggung bagian bawah, dan kulit kepala."
+      ],
+    },
+    {
+      "tag": "Penyebab Penyakit Psoriasis",
+      "patterns": [
+        "Apa penyebab penyakit Psoriasis?",
+        "Penyebab Psoriasis adalah?",
+        "Kenapa bisa terkena Psoriasis?",
+	"Apa yang menyebabkan terkena Psoriasis?",
+        "Disebabkan karena apa psoriasis?",
+        "Kok bisa terkena penyakit psoriasis?"
+      ],
+      "responses": [
+        "Psoriasis diduga disebabkan karena autoimun tubuh menyerang sel-sel kulit yang sehat. Penyakit ini tidak menular, sehingga kontak langsung tidak bukanlah hal yang berbahaya. meski penyebab pastinya masih belum diketahui,ada beberapa faktor yang diduga bisa meningkatkan risiko penyakit ini,antara lain,Adanya pengaruh lingkungan dan faktor gen,Faktor keturunan,Adanya infeksi tenggorokan,Cedera pada kulit,Terlalu banyak mengonsumsi minuman beralkohol,Mengonsumsi obat-obatan tekanan darah tinggi serta obat antimalaria",
+        "Penyebab psoriasis belum diketahui secara pasti. Namun, kondisi ini diduga terjadi akibat gangguan sistem kekebalan tubuh. Selain itu, ada faktor-faktor yang dapat menjadi pemicu psoriasis, seperti stres, infeksi tenggorokan, dan cuaca dingin."
+      ],
+    },
+    {
+      "tag": "Gejala Psoriasis",
+      "patterns": [
+        "Apa gejala Psoriasis?",
+        "Bagaimana gejala Psoriasis?",
+	"Apa ciri ciri Psoriasis?",
+	"Gejala penyakit Psoriasis adalah?",
+        "Kira-kira psoriasis gejalanya apa saja?",
+        "Sebutin dong gejala pada psoriasis"
+      ],
+      "responses": [
+        "Setiap pengidapnya bisa mengalami gejala yang berbeda-beda. Ada yang mengalami gejala ringan atau tidak ada gejala sama sekali dalam kurun waktu tertentu. Namun, kondisi ini umumnya menimbulkan: Kulit yang memerah akan terasa tebal kering dan bersisik. Kuku menebal dengan tekstur yang tidak rata. Kulit pecah-pecah dan terkadang berdarah. Sendi terasa bengkak dan kaku. perbedaan gejala yang timbul akan terjadi tergantung jenis penyakit yang diidap oleh pengidap psoriasis, seperti: Plak. Gejala yang muncul pada jenis ini adalah timbulnya ruam kulit merah dan kulit menjadi bersisik yang disebut dengan plak yang muncul di bagian tubuh manapun", 
+        "Psoriasis bisa terjadi pada Kuku. Jika psoriasis terjadi pada kuku, maka gejalanya meliputi perubahan warna kuku, cekungan kecil yang muncul pada kuku, pertumbuhan kuku. Kepala. Jenis kulit kepala ini akan timbul gejala seperti munculnya sisik tebal dan terasa gatal di seluruh kulit kepala, bahkan terdapat ruam yang melebar hingga melewati garis rambut. Inversi. Gejala yang ditimbulkan oleh jenis inversi adalah ruam merah yang terasa halus pada daerah tubuh yang memiliki lipatan. Ruam tersebut biasanya terjadi pada ketiak.   Gutata. Gejala pada jenis gutata menyerupai bintik ruam seperti tetesan air dan biasanya muncul pada tubuh bagian atas, lengan, kaki dan kulit. Pustular. Psoriasis pustulat mengeluarkan gejala seperti ruam merah yang perih sebelum akhirnya melepuh dan berisi nanah. Eritrodermik. Gejala jenis eritrodermik adalah timmbulnya ruam yang mengelupas dan sangat gatal. Ruam tersebut juga disertai dengan sensasi terbakar di seluruh tubuh. Artritis. Gejala jenis terakhir ini akan menimbulkan kulit yang teriritasi dan bersisik serta adanya perubahan warna kuku."
+      ],
+
+    },
+    {
+      "tag": "Penyembuhan Psoriasis",
+      "patterns": [
+        "Cara menyembuhkan Psoriasis?",
+        "Bagaimana cara mengobati Psoriasis?",
+	"Obat Psoriasis adalah?",
+	"Bagaimana cara menyembuhkan Psoriasis?",
+        "Apa cara agar bisa sembuh dari psoriasis?",
+        "Jelaskan dong biar sembuh dari psoriasis"
+      ],
+      "responses": [
+        "Psoriasis dapat disembuhkan dengan melalui langkah pengobatan sesuai dengan jenis dan tingkat keparahannya. Pengobatan yang dilakukan, seperti: 1.Perawatan topikal Pemakaian obat krim atau salep yang mengandung mengandung bahan aktif. Misalnya, seperti kortikosteroid, salisilat, atau vitamin D analog. Fungsinya untuk mengurangi peradangan dan mengontrol gejala kondisi ini. 2.Keratolitik : Keratolitik adalah jenis obat yang digunakan dalam pengobatan psoriasis untuk membantu mengatasi masalah penumpukan sel-sel kulit mati yang berlebihan pada pengidapnya. 3.Terapi Cahaya (Phototherapy) Dokter juga bisa merekomendasikan terapi cahaya UVB (ultraviolet B) atau PUVA (psoralen dan ultraviolet A). Tujuannya untuk membantu mengendalikan gejalanya dengan menargetkan area kulit yang terkena.",
+        "Tindakan penyembuhan yang bisa dilakukan adalah pemberian obat oles, obat tablet, obat suntik, atau terapi khusus menggunakan pancaran sinar ultraviolet. Langkah utama untuk mencegah psoriasis adalah dengan menghindari faktor pemicunya. Beberapa upaya yang dapat dilakukan adalah berhenti merokok, mengelola stres dengan baik, mengonsumsi makanan bergizi seimbang, dan menggunakan tabir surya."
+      ],
+  
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Dah",
+        "Dadah",
+        "Bye",
+        "Byee",
+        "Good bye",
+        "Selamat tinggal",
+        "Sampai jumpa",
+        "Bai",
+        "See you"
+      ],
+      "responses": [
+        "Bye!",
+        "Dadahh!",
+        "Good bye!",
+        "Dahh, semoga harimu menyenangkan yaa!",
+        "Sampai jumpa lagi!",
+        "See u! Senang bisa membantu"
+      ]
+    },
+    {
+      "tag": "terimakasih",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "Terima kasih",
+        "Makasih",
+        "Terima kasih banyak"
+      ],
+      "responses": [
+        "Dengan senang hati :)",
+        "Sama-sama yaa"
+      ]
+    }
+  ]
+}
